@@ -1,2 +1,3 @@
 # Project-KVC
-Mijn guhweldige KVC GUI test
+Mijn geweldige KVC GUI test
+kijk ik heb nu dus deze typo gefixt!
